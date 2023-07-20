@@ -1,0 +1,65 @@
+
+body{
+    margin:0;  
+}
+#best{
+    
+    background-image:url(task2\ pic.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
+h3{
+  background-color: red;
+  color:white;
+text-align: center;
+height: 30px;
+padding: 5px 5px;
+}
+.phone{
+    
+    color:white;
+    background-color: blue;
+    text-align: center;
+    height: 30px;
+    padding: 5px 5px;
+}
+.course{
+    display: flex;
+    padding: 1px;
+
+}
+nav{
+    flex:5;
+    display: flex;
+}
+
+a{
+    flex:1;
+}
+nav a:hover{
+    color:aquamarine;
+    }
+Header a{
+    color:blue;
+    text-decoration:none ;
+
+}
+#tech{
+    color:black;
+    font-size: x-large;
+}
+button{
+    color:red;
+    text-align: center;  
+border-radius:10px;
+background-color: blanchedalmond;
+border-bottom-right-radius:1px solid black;
+}
+footer{
+   background-color:gray;
+   color: whitesmoke;
+   padding: 7px 7px;
+   text-align: justify;
+}
